@@ -566,6 +566,11 @@ html {
   margin-bottom: 2.5rem;
 }
 
+.my-\[146px\] {
+  margin-top: 146px;
+  margin-bottom: 146px;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -610,6 +615,22 @@ html {
   margin-top: 143px;
 }
 
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[70px\] {
+  margin-top: 70px;
+}
+
+.mb-\[212px\] {
+  margin-bottom: 212px;
+}
+
+.mt-\[146px\] {
+  margin-top: 146px;
+}
+
 .flex {
   display: flex;
 }
@@ -644,6 +665,14 @@ html {
 
 .h-full {
   height: 100%;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.h-\[300px\] {
+  height: 300px;
 }
 
 .w-1\/2 {
@@ -694,12 +723,28 @@ html {
   width: 100%;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[4\] {
+  width: 4;
+}
+
+.w-\[482px\] {
+  width: 482px;
+}
+
 .max-w-4xl {
   max-width: 56rem;
 }
 
 .max-w-6xl {
   max-width: 72rem;
+}
+
+.max-w-4 {
+  max-width: 1rem;
 }
 
 .flex-col {
@@ -955,6 +1000,11 @@ html {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
 
 .pl-8 {
